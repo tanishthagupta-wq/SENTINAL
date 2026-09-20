@@ -1,0 +1,9 @@
+dash
+plotly
+numpy
+pandas
+pyserial
+requests
+websocket-client
+scipy
+pyproj
